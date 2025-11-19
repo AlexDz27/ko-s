@@ -1,0 +1,16 @@
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: inherit;
+  display: inline-block;
+  text-decoration: none;
+}
+.btn--admin {
+  background-color: #FEDE32;
+  font-weight: bold;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
